@@ -4,6 +4,10 @@ Ek autonomous AI agent jo latest cybersecurity vulnerabilities (CVEs) ko
 track karta hai, unka AI-powered analysis karta hai (Google Gemini — FREE),
 aur ek daily threat report generate karta hai.
 
+## 🌐 Live Demo
+
+**App yahan live hai**: https://threat-intel-agent-mefegbwaradqyz4apu7bz3.streamlit.app/
+
 ## 📁 Project Files
 
 ```
